@@ -1,1 +1,1 @@
-App release for Android is available in this repository
+App .apk for Android is available in this repository
